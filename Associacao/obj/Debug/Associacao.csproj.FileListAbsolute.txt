@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\bin\Debug\Associacao.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\bin\Debug\Associacao.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\bin\Debug\Associacao.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\obj\Debug\Associacao.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\obj\Debug\Associacao.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Associacao\Associacao\obj\Debug\Associacao.pdb
